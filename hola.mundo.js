@@ -1,6 +1,6 @@
 // index.js
 function holaMundo() {
-    return "Hola Mundo";
+    return "Hola sMundo";
 }
 
 module.exports = holaMundo;
